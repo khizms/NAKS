@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Top 5 Heaviest Animals</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightblue;
+            text-align: center;
+        }
+        .animal {
+            margin-bottom: 20px;
+        }
+        .animal h2 {
+            margin: 0;
+        }
+        .animal p {
+            margin: 0 0 10px;
+        }
+        .animal img {
+            width: 300px;
+            height: 200px;
+        }
+        .animal a {
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Top 5 Heaviest Animals</h1>
+
+    <div class="animal">
+        <h2>1. Blue Whale</h2>
+        <img src="https://th.bing.com/th/id/R.6fca90bd4b6178ebf09b7870708a10aa?rik=k5KzmAhLdQauUA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-38-udj-GPRc%2fUBC3vkSgq-I%2fAAAAAAAADP0%2f2z32BCv7mVI%2fs1600%2fbluewhale.jpg&ehk=KUNLcS4zlT5yIsRpcuoKNIKmR2F3h7xQBvFHGmE7uNw%3d&risl=&pid=ImgRaw&r=0" alt="Blue Whale">
+        <p>The Blue Whale is the largest animal known ever to have existed, reaching a maximum confirmed length of 29.9 meters (98 ft) and weighing up to 199 tonnes (196 long tons; 219 short tons).</p>
+        <a href="https://en.wikipedia.org/wiki/Blue_whale" target="_blank">See more</a>
+    </div>
+
+    <div class="animal">
+        <h2>2. North Pacific Right Whale</h2>
+        <img src="https://th.bing.com/th/id/R.658d6769016a316a241ec35708ad0efa?rik=paqitXBBdZWogg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-AShoIo1KFy4%2fT2nQ6ljy39I%2fAAAAAAAADLE%2f-4Cwh6-4WwY%2fs640%2fNorth%2bPacific%2bRight%2bWhale7.jpg&ehk=yOldJl%2fDxuWSSIPpzfm19gCqDQUvW5Jm6WtBYWK104g%3d&risl=&pid=ImgRaw&r=0" alt="North Pacific Right Whale">
+        <p>The North Pacific Right Whale is the second heaviest animal, with an average mass of 60 tonnes and a maximum mass of 120 tonnes.</p>
+        <a href="https://en.wikipedia.org/wiki/North_Pacific_right_whale" target="_blank">See more</a>
+    </div>
+
+    <div class="animal">
+        <h2>3. Southern Right Whale</h2>
+        <img src="https://th.bing.com/th/id/OIP.6aGR8IaGfhFc_fQ7FPUJ8gAAAA?rs=1&pid=ImgDetMain" alt="Southern Right Whale">
+        <p>The Southern Right Whale is the third heaviest animal, with an average mass of 58 tonnes and a maximum mass of 110 tonnes.</p>
+        <a href="https://en.wikipedia.org/wiki/Southern_right_whale" target="_blank">See more</a>
+    </div>
+
+    <div class="animal">
+        <h2>4. Fin Whale</h2>
+        <img src="https://th.bing.com/th/id/OIP.685er73Q7-Tbpq8VfhxDeAAAAA?rs=1&pid=ImgDetMain" alt="Fin Whale">
+        <p>The Fin Whale is the fourth heaviest animal, with an average mass of 57 tonnes and a maximum mass of 120 tonnes.</p>
+        <a href="https://en.wikipedia.org/wiki/Fin_whale" target="_blank">See more</a>
+    </div>
+
+    <div class="animal">
+        <h2>5. Bowhead Whale</h2>
+        <img src="https://th.bing.com/th/id/OIP.jq05sn8bz-HpQN9a_uZAzgAAAA?rs=1&pid=ImgDetMain" alt="Bowhead Whale">
+        <p>The Bowhead Whale is the fifth heaviest animal, with an average mass of 54.5 tonnes and a maximum mass of 120 tonnes.</p>
+        <a href="https://en.wikipedia.org/wiki/Bowhead_whale" target="_blank">See more</a>
+    </div>
+</body>
+</html>
